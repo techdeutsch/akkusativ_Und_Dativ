@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5gf1DfauAGw_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Präpositionen mit akkusativ und Dativ</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Präpositionen_mit_akkusativ_und_Dativ_ORG">
+    <organization identifier="Präpositionen_mit_akkusativ_und_Dativ_ORG">
+      <title>Präpositionen mit akkusativ und Dativ</title>
+      <item identifier="Präpositionen_mit_akkusativ_und_Dativ_SCO" isvisible="true" identifierref="__5gf1DfauAGw_course_id_RES">
+        <title>Präpositionen mit akkusativ und Dativ</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5gf1DfauAGw_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6ExWSRzkcGc_P_0_0_645_304.png" />
+      <file href="mobile/67lmVMR6RKy_P_0_0_1276_897.png" />
+      <file href="mobile/5wAhJHu04Ht.png" />
+      <file href="mobile/5zDILHj3Qmu.png" />
+      <file href="mobile/6aSTYA94BbD63VsWukAwOV{Width=666.6667, Height=424}Light.png" />
+      <file href="mobile/5rCq2xj1LHu.png" />
+      <file href="mobile/6mRWPT7tdj26dd6sBDqj4Y{Width=637.6923, Height=444}Light.png" />
+      <file href="mobile/5fEm7nQijJn.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6Lfy8WrckIW.jpg" />
+      <file href="mobile/txt__default_6HPF2PpIXRv.png" />
+      <file href="mobile/txt__default_60ZCmoiWzY0.png" />
+      <file href="mobile/txt__default_60rQUiuKatq.png" />
+      <file href="mobile/Slide5ZVoCQcpfHk.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gv6ZrVSwhb.js" />
+      <file href="html5/data/js/5jO0U8gnyvZ.js" />
+      <file href="html5/data/js/5kbAPU1HXCa.js" />
+      <file href="html5/data/js/5lPcgPm5iQR.js" />
+      <file href="html5/data/js/5rksXvfTOky.js" />
+      <file href="html5/data/js/5vTKgpqE0rq.js" />
+      <file href="html5/data/js/5x7mYzPzb0O.js" />
+      <file href="html5/data/js/60MngZLPbFj.js" />
+      <file href="html5/data/js/64nxn76dSWq.js" />
+      <file href="html5/data/js/6ffFvs1OSCR.js" />
+      <file href="html5/data/js/6WP34LygKxG.js" />
+      <file href="html5/data/js/6Xo7mDj39p7.js" />
+      <file href="html5/data/js/6XybXe742OP.js" />
+      <file href="html5/data/js/6YxyVb1Yuu2.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
